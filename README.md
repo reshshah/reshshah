@@ -20,7 +20,7 @@ A scalable machine learning platform that turns raw customer data (orders, web e
 
 ---
 
-## 🧰 Smaller projects
+## Smaller projects
 
 ### [data-science-portfolio](https://github.com/reshshah/data-science-portfolio)
 
