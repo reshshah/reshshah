@@ -2,8 +2,9 @@
 
 I work in data science — 16 years in retail across personalization, site merch, marketing, customer growth, loyalty and digital ads. 
 
-#Currently at: Walmart. Previously at: TripAdvisor, Chewy, Staples & Macys
-#Interests: Machine Learning, Agentic AI 
+Currently at: Walmart. 
+Previously at: TripAdvisor, Chewy, Staples & Macys
+Interests: Machine Learning, Agentic AI 
 
 📍 San Jose, CA · [LinkedIn](https://www.linkedin.com/in/reshma-shah-ai-analytics/)
 
