@@ -1,6 +1,6 @@
 # Hi, I'm Reshma 👋
 
-I work in data science and analytics — 16 years in retail across personalization, site merch, marketing, customer growth, loyalty and digital ads. 
+I work in data science and analytics — 16 years in retail across personalization, site merch, marketing, customer growth, loyalty, digital ads and experimentation. 
 
 Currently at: Walmart
 
