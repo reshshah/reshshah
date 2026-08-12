@@ -14,11 +14,9 @@ Interests: Machine Learning, Agentic AI
 
 ## 🔭 What I'm building now
 
-### [AgentOps — Multi-Agent Churn Prediction](https://github.com/reshshah/agentops-churn-prediction)
+### [customer-intelligence-platform](https://github.com/reshshah/data-science-portfolio/tree/main/customer-intelligence-platform)
 
-A work-in-progress multi-agent system for subscription churn, designed spec-first: the architecture, agent contracts, and design tradeoffs are documented in the repo, and I'm implementing it phase by phase against that spec. The design covers streaming feature ingestion (Kafka), an XGBoost + LightGBM ensemble with SHAP, Claude-generated explanations, and CUPED-based experimentation.
-
-`Python` `XGBoost` `Kafka` `Redis` `FastAPI` `Anthropic Claude` `SHAP` `CUPED`
+A scalable machine learning platform that turns raw customer data (orders, web events, support tickets, marketing touches) into trained, evaluated churn, propensity and uplift models.
 
 ---
 
@@ -34,6 +32,16 @@ Standalone scripts and small apps from marketing and growth analytics problems I
 | LLM Sentiment & Topic Pipeline | LLM-based review classification with topic extraction |
 | Breakeven ROAS Calculator | A small Streamlit tool for margin-aware ROAS thresholds |
 | A/B Test Sample Size Calculator | Two-sample power analysis for experiment design |
+
+---
+
+## 🔭 What I will build next
+
+### [AgentOps — Multi-Agent Churn Prediction](https://github.com/reshshah/agentops-churn-prediction)
+
+A work-in-progress multi-agent system for subscription churn, designed spec-first: the architecture, agent contracts, and design tradeoffs are documented in the repo, and I'm implementing it phase by phase against that spec. The design covers streaming feature ingestion (Kafka), an XGBoost + LightGBM ensemble with SHAP, Claude-generated explanations, and CUPED-based experimentation.
+
+`Python` `XGBoost` `Kafka` `Redis` `FastAPI` `Anthropic Claude` `SHAP` `CUPED`
 
 ---
 
